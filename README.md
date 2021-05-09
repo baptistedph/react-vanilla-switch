@@ -1,7 +1,7 @@
 # How to use React-Vanilla Switch ?
 
 **There are actually 2 commands :**
-You can run these commands by pressing `ctrl`+`⇧`+`p` or `⌘`+`⇧`+`p`
+You can run these commands by pressing `ctrl`+`⇧`+`p` or `⌘`+`⇧`+`p` on mac
 
 ![Commands](https://i.imgur.com/Te12AUU.png)
 
